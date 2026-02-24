@@ -1,4 +1,4 @@
-# gCognition: Cognitive Productivity Analyzer
+# Cognition: Cognitive Productivity Analyzer
 
 > A behavioral analytics platform that analyzes how people work, not just what they complete.
 
